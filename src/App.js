@@ -72,7 +72,7 @@ class App extends Component {
                 value={this.state.lightness}
                 onChange={this.updateLightness}
               />
-              <label>lightness</label>
+              <label>Lightness</label>
             </li>
           </ul>
           <p>{color}</p>

@@ -26,6 +26,10 @@ ul {
   margin-bottom: 30px;
 }
 
+p {
+  text-align: center;
+}
+
 .color-picker {
   min-width: 100vw;
   min-height: 100vh;
