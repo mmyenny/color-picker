@@ -41,7 +41,7 @@ class App extends Component {
           backgroundColor: color
         }}
       >
-        <div class="main">
+        <div className="main">
           <h1>Color Picker</h1>
           <ul>
             <li>
